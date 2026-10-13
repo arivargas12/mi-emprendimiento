@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# LUMÉ — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+LUMÉ es un emprendimiento dedicado a la elaboración y venta de velas aromáticas artesanales de cera de soja 100% natural y bienestar.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
@@ -31,8 +31,9 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Prototipo
 
-[Aquí va el link de tu proyecto de Stitch en la Fase 3]
+- **Proyecto en Google Stitch:** https://stitch.withgoogle.com/projects/5380580207788885438
 
 ## Uso de IA
 
-- **[Herramienta]:** para qué la usé y qué ajusté yo.
+- **Google Stitch:** Generación de las pantallas referenciales en desktop y mobile a partir del `DESIGN.md` importado y los prompts de `docs/09-spec-diseno.md`.
+- **Antigravity / Gemini:** Asistencia en la estructuración de especificaciones (*Spec-Driven Design*), revisión de coherencia UX contra la proto-persona y elaboración de la matriz de QA.
